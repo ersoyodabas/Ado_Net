@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAdoNet", "ProjectAdoNet.csproj", "{3F745E79-CF69-427E-A7EB-C2B3A844CFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseDLL", "..\DatabaseDLL\DatabaseDLL.csproj", "{D62DB437-2F8F-48CE-BD5D-3223C02B418C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F745E79-CF69-427E-A7EB-C2B3A844CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F745E79-CF69-427E-A7EB-C2B3A844CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F745E79-CF69-427E-A7EB-C2B3A844CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F745E79-CF69-427E-A7EB-C2B3A844CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62DB437-2F8F-48CE-BD5D-3223C02B418C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62DB437-2F8F-48CE-BD5D-3223C02B418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62DB437-2F8F-48CE-BD5D-3223C02B418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62DB437-2F8F-48CE-BD5D-3223C02B418C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AB5392-F50A-4A73-9DB6-BF67E38D893D}
+	EndGlobalSection
+EndGlobal
